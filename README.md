@@ -36,6 +36,8 @@ health calculations, and displays a complete summary.
 python main.py
 
 ## Group Members
-- maimatadiallo59-svg — Part 1 & Part 2
-- ouedraogoalima196 — Part 3 (Magic Methods)
-- priscadakuyo9 — Part 4 (Decorators)
+- Diallo Maimata — Part 1 & Part 2
+- Ouedraogo Alimata — Part 3 (Magic Methods)
+- Dakuyo Prisca Annexe — Part 4 (Decorators)
+- Dah Nibouor
+- Kantagba Efraim
