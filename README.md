@@ -38,6 +38,6 @@ python main.py
 ## Group Members
 - Diallo Maimata — Part 1 & Part 2
 - Ouedraogo Alimata — Part 3 (Magic Methods)
-- Dakuyo Prisca Annexe — Part 4 (Decorators)
+- Dakuyo Annette Alexias Prisca — Part 4 (Decorators)
 - Dah Nibouor
 - Kantagba Efraim
